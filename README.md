@@ -1,3 +1,11 @@
+Deployed App : https://user-fetcher-tanvighule21.vercel.app/
+
+Preview : 
+
+![User Fetcher](https://user-images.githubusercontent.com/98412299/155666336-74ee8447-db28-430f-8254-9816e5aa3fb0.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
